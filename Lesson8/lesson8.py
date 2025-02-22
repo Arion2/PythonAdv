@@ -12,7 +12,7 @@
 #
 # print(f"Area: {area}")
 # print(f"Perimeter: {perimeter}")
-
+#
 # class Rectangle:
 #     def __init__(self, length, width):
 #         self.length = length
@@ -29,7 +29,7 @@
 #
 # print(f"Area: {area}")
 # print(f"Perimeter: {perimeter}")
-
+#
 
 class Person:
     def __init__(self, name, age):
