@@ -7,7 +7,7 @@ df = pd.read_csv('avgIQpercountry.csv')
 
 avg_iq_continent = df.groupby('Continent')['Average IQ'].mean()
 
-plt.figure(figsize=(10,6))
+plt.figure(figsize=(10,8))
 
 
 avg_iq_continent.plot(kind='line', marker='o', color='skyblue')

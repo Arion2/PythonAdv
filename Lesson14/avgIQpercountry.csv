@@ -60,7 +60,7 @@ Rank,Country,Average IQ,Continent,Literacy Rate,Nobel Prices,HDI (2021),Mean yea
 59,Vietnam,89.53,Asia,0.95,1,0.703,8.4,7867.0,98858950
 60,Iraq,89.28,Asia,0.8,1,0.686,7.9,9977.0,45504560
 61,Uzbekistan,89.01,Asia,1.0,0,0.727,11.9,7917.0,35163944
-62,Kazakhstan,88.89,Asia,1.0,0,0.811,12.3,23943.0,19606634
+62,Kazakhstan,88.80,Asia,1.0,0,0.811,12.3,23943.0,19606634
 63,Thailand,88.87,Asia,0.94,0,0.8,8.7,17030.0,71801279
 64,Armenia,88.82,Asia,1.0,0,0.759,11.3,13158.0,2777971
 65,Bosnia and Herzegovina,88.54,Europe,0.98,2,0.78,10.5,15242.0,3210848
